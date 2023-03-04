@@ -1,0 +1,14 @@
+.navbar {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 15%;
+  background-color: goldenrod;
+}
+.child {
+  font-size: 2rem;
+  color: white;
+}
+.child:hover {
+  color: yellowgreen;
+}
